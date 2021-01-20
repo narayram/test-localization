@@ -1,3 +1,3 @@
 # Welcome to test-localization!
 
-Hello world.
+For hand-off demo!
