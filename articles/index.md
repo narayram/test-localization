@@ -1,11 +1,9 @@
 # Welcome to test-localization!
 
-Hello world.
-
-I am peng
+hi hanmei, how are you
 
 Test!
 
-2021-01-20 05:22 PM
+2021-01-20 05:22
 
-2021-01-21 14:41 AM
+2021-01-21 15:00
