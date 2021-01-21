@@ -1,3 +1,3 @@
 # Welcome to test-localization!
 
-Update LCS Client.
+Update LCS Client...
