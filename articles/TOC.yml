@@ -1,2 +1,8 @@
 - name: Index
   href: index.md
+- name: Dotnet
+  href: dotnet.md
+- name: Java
+  href: java.md
+- name: Python
+  href: python.md
