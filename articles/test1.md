@@ -7,3 +7,5 @@ While rare, an Azure data center can have an outage. When an outage occurs, it c
 * [Backup](analysis-services-backup.md) databases from your primary server and restore on redundant servers. For example, you can automate nightly backups to Azure storage, and restore to other redundant servers in other regions. 
 
 In either case, if your primary server experiences an outage, you must change the connection strings in reporting clients to connect to the server in a different regional datacenter. This change should be considered a last resort and only if a catastrophic regional data center outage occurs. It's more likely a data center outage hosting your primary server would come back online before you could update connections on all clients. 
+
+[02/08/2021 16:19]
