@@ -2,4 +2,4 @@
 
 only update one file
 
-update 1
+update 1 1
