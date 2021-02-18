@@ -1,7 +1,3 @@
 # New file
 
-new
-
-Only Update New
-
-update new
+only update one file
