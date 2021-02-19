@@ -1,3 +1,3 @@
 # Analysis Services high availability
 
-[link](a.md)
+This is a [link](a.md) test.
