@@ -12,4 +12,4 @@ While rare, an Azure data center can have an outage. When an outage occurs, it c
 
 In either case, if your primary server experiences an outage, you must change the connection strings in reporting clients to connect to the server in a different regional datacenter. This change should be considered a last resort and only if a catastrophic regional data center outage occurs. It's more likely a data center outage hosting your primary server would come back online before you could update connections on all clients. 
 
-test [3/16/2021 02:21pm]
+test [3/16/2021 02:37pm]
