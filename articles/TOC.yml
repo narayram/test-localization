@@ -1,6 +1,6 @@
 - name: Index
   href: index.md
-- name: DotNet
+- name: Dotnet
   href: dotnet.md
 - name: Python
   href: python.md
