@@ -4,4 +4,4 @@ This article describes assuring high availability for Azure Analysis Services se
 
 My name is Lisa.
 
-[test 4/01 9/47 am]!
+[test 4/01 9/47 am]!!
