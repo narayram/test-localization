@@ -1,2 +1,8 @@
 - name: Index
   href: index.md
+- name: test index
+  href: index.md
+- name: demo show
+  href: demo.md
+- name: Fundamental coding components demo
+  href: demo.md
